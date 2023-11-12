@@ -6,7 +6,8 @@
  */
 
 import React from "react";
-import arrowSvg from "../images/down-arrow.svg";
+import arrowSvg from "../images/design-desk.jpeg";
+const imageAltText = "desktop with books and laptop";
 import PropTypes from "prop-types";
 
 /**
